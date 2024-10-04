@@ -1,13 +1,15 @@
-# Actividad Juego de Pokemones
+# Actividad: **Juego de Pokemon**
 
-**Nombre de la escuela:** Universidad Tecnologica de la Sierra Hidalguense
+**Nombre de la escuela:** Universidad Tecnológica de la Sierra Hidalguense
 
 **Nombre de la materia:** Aplicaciones Web Progresivas
 
 **Nombre del alumno:** Israel Cruz Reyes
 
-**Grado:** Decimo Cuatrimestre
+**Matricula:** 2021004
 
-**Carrera:** Ingenieria en Desarrollo y Gestión de Software
+**Grado:** Décimo Cuatrimestre
+
+**Carrera:** Ingeniería en Desarrollo y Gestión de Software
 
 **Cuatrimestre Septiembre- Diciembre 2024**
